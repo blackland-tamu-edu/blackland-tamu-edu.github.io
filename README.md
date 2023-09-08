@@ -19,3 +19,7 @@ The purpose of this Github Pages repository is to create a consistent set of con
 1. Set up Github workflow in the repository `.github/workflows/ci.yaml`
 2. Commit and push to the repository
 3. View at [blackland-tamu-edu.github.io/](https://blackland-tamu-edu.github.io/)
+
+## Version ##
+
+Version 0.1.0 - September 2023
